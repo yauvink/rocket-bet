@@ -1,9 +1,10 @@
-import { ChakraProvider, Box } from '@chakra-ui/react';
+import { ChakraProvider } from '@chakra-ui/react';
+import { Game, GameProvider } from './components/Game';
 
 export const App = () => (
   <ChakraProvider>
-    <Box textAlign="center" fontSize="xl">
-      Hello world
-    </Box>
+    <GameProvider>
+      <Game />
+    </GameProvider>
   </ChakraProvider>
 );
