@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/rocket-bet/static/js/main.dd25f51d.js",
+    "index.html": "/rocket-bet/index.html",
+    "main.dd25f51d.js.map": "/rocket-bet/static/js/main.dd25f51d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dd25f51d.js"
+  ]
+}
