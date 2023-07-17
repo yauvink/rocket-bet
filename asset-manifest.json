@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.js": "/rocket-bet/static/js/main.dd25f51d.js",
+    "main.js": "/rocket-bet/static/js/main.69c61043.js",
+    "static/media/bg.jpg": "/rocket-bet/static/media/bg.6002166d4948c69cf70d.jpg",
+    "static/media/rocket.png": "/rocket-bet/static/media/rocket.e74c459273a79eedfb49.png",
     "index.html": "/rocket-bet/index.html",
-    "main.dd25f51d.js.map": "/rocket-bet/static/js/main.dd25f51d.js.map"
+    "main.69c61043.js.map": "/rocket-bet/static/js/main.69c61043.js.map"
   },
   "entrypoints": [
-    "static/js/main.dd25f51d.js"
+    "static/js/main.69c61043.js"
   ]
 }
